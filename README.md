@@ -1,5 +1,5 @@
 
-# Intelligent Machine Learning (IML) Assignments
+# Introduction to Machine Learning (IML) Assignments
 
 ---
 
