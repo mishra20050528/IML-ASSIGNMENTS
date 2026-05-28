@@ -1,30 +1,85 @@
-# IML-ASSIGNMENTS
-<br>
-IML ASSIGNMENTS'
-<br>
-ASSIGNMENT-1   QUES1 : WAP TO INITIALIZE A 1D ARRAY AND CONVERT THAT ARRAY INTO NUMPY AND PANDAS.
-               <br>
-               QUES2 : WAP TO INITIALIZE A 2D ARRAY AND CONVERT THAT ARRAY INTO 1D ARRAY USING NUMPY AND PANDAS.
-               <br>
-               QUES3 : WAP TO TAKE AN EQUATION OF A LINE AND FIND OUT ERROR USING FIVE DIFFERENT COORDINATES.
-<br>
-ASSIGNMENT-2   QUES1 : WRITE A PROGRAM TO FIND PRECISION , RECALL , ACCURACY , F1 SCORE , FALSE POSITIVE , FALSE NEGATIVE ,TRUE POSITIVE AND TRUE NEGATIVEAND ALSO                         PLOT THE CONFUSION MATRIX.
-<br>
-ASSIGNMENT-3    QUES1 : WAP TO IMPLEMENT LINEAR REGRESSION AND POLYNOMIAL REGRESSION AND FIND R2 SCORE AND COMPARE THE PERFORMANCE OF BOTH(LINEAR AND POLYNOOMIAL                           REGRESSION) ON THE SAME DATASET.
-<br>
-ASSIGNMENT-4    QUES1 : WAP TO IMPLEMENT LOGISTIC REGRESSION AND CALCULATE THE EVALUATION METRICS AND CONFUSION MATRIX AND  THE ROC CURVE.
-<br>
-ASSIGNMENT-5    QUES2 : WAP TO PERFORM KNN(K-NEAREST NEIGHBOUR) ON THE FOLLOWING DATASETS
-                        (i) TITANIC.CSV
-                        (ii) DIABETES.CSV
-                        (iii) SOCIAL_NETWORK.CSV
-<br>
-ASSIGNMENT-6     QUES1 : WAP TO PERFORM SVM ON FOLLOWING DATASETS
-                         (i) TITANIC.CSV
-                        (ii) DIABETES.CSV
-                        (iii) SOCIAL_NETWORK.CSV
-<br>
-ASSIGNMENT-7     QUES1 : WAP TO APPLY K-MEANS CLUSTERING ON THE GIVEN DATASETS
-                         (i) TITANIC.CSV
-                        (ii) DIABETES.CSV
-                        (iii) SOCIAL_NETWORK.CSV
+
+# Intelligent Machine Learning (IML) Assignments
+
+---
+
+# Assignment 1
+
+## Question 1
+Write a Program (WAP) to initialize a 1D array and convert that array into NumPy and Pandas.
+
+## Question 2
+Write a Program (WAP) to initialize a 2D array and convert that array into a 1D array using NumPy and Pandas.
+
+## Question 3
+Write a Program (WAP) to take an equation of a line and find out the error using five different coordinates.
+
+---
+
+# Assignment 2
+
+## Question 1
+Write a Program (WAP) to find:
+- Precision
+- Recall
+- Accuracy
+- F1 Score
+- False Positive (FP)
+- False Negative (FN)
+- True Positive (TP)
+- True Negative (TN)
+
+Also, plot the Confusion Matrix.
+
+---
+
+# Assignment 3
+
+## Question 1
+Write a Program (WAP) to implement:
+- Linear Regression
+- Polynomial Regression
+
+Find the R² Score and compare the performance of both models on the same dataset.
+
+---
+
+# Assignment 4
+
+## Question 1
+Write a Program (WAP) to implement Logistic Regression and calculate:
+- Evaluation Metrics
+- Confusion Matrix
+- ROC Curve
+
+---
+
+# Assignment 5
+
+## Question 1
+Write a Program (WAP) to perform K-Nearest Neighbour (KNN) on the following datasets:
+1. Titanic.csv
+2. Diabetes.csv
+3. Social_Network.csv
+
+---
+
+# Assignment 6
+
+## Question 1
+Write a Program (WAP) to perform Support Vector Machine (SVM) on the following datasets:
+1. Titanic.csv
+2. Diabetes.csv
+3. Social_Network.csv
+
+---
+
+# Assignment 7
+
+## Question 1
+Write a Program (WAP) to apply K-Means Clustering on the following datasets:
+1. Titanic.csv
+2. Diabetes.csv
+3. Social_Network.csv
+
+---
